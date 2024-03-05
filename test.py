@@ -16,14 +16,4 @@ def test_validate_endpoints():
 
 print(test_validate_endpoints())
 
-{"iss":"https://securetoken.google.com/fastapi-auth-47dd5",
- "aud":"fastapi-auth-47dd5","auth_time":1709624562,
- "user_id":"yYy4WUfM6Ka6VaelaVYYcpQbIH42",
- "sub":"yYy4WUfM6Ka6VaelaVYYcpQbIH42",
- "iat":1709624562,
- "exp":1709628162,
- "email":"yenulichamodya@gmail.com",
- "email_verified":false,
-  "firebase":{"identities":{"email":["yenulichamodya@gmail.com"]},"sign_in_provider":"password"},
- "uid":"yYy4WUfM6Ka6VaelaVYYcpQbIH42"}
 
